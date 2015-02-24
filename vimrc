@@ -6,7 +6,7 @@ set ffs=unix,dos,mac
 "tabs
 set expandtab
 set smarttab
-set shiftwidth
+set shiftwidth=4
 set tabstop=4
 
 "indenting
@@ -17,3 +17,4 @@ set si "smart indent
 set nobackup
 set nowb
 set noswapfile
+
