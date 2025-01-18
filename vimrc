@@ -1,7 +1,8 @@
-"filetype stuff
-filetype plugin on
-filetype indent on
-set ffs=unix,dos,mac
+"syntax highlighting
+syntax on
+
+"enable status line
+set laststatus=2
 
 "tabs
 set expandtab
@@ -17,4 +18,3 @@ set si "smart indent
 set nobackup
 set nowb
 set noswapfile
-
